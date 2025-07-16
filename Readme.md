@@ -17,11 +17,11 @@ This project aims to analyze and predict sales trends using a dataset related to
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/jatin019/Suppply-Chain-Management-Project.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repository
+   cd Suppy-Chain-Management-Project
    ```
 3. Install the required dependencies:
    ```bash
